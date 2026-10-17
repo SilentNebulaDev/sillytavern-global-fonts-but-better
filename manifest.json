@@ -1,11 +1,11 @@
 {
-    "display_name": "Global Font",
+    "display_name": "🪐ШРИФТЫ",
     "loading_order": 10,
     "requires": [],
     "optional": [],
     "js": "index.js",
     "css": "style.css",
-    "author": "user",
+    "author": "saturn7657",
     "version": "1.0.0",
     "homePage": ""
 }
