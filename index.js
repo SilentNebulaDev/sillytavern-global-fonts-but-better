@@ -212,7 +212,7 @@ const SETTINGS_HTML = `
 <div class="gf-settings">
     <div class="inline-drawer">
         <div class="inline-drawer-toggle inline-drawer-header">
-            <b>Global Font</b>
+            <b>🪐ШРИФТ</b>
             <div class="inline-drawer-icon fa-solid fa-circle-chevron-down down"></div>
         </div>
         <div class="inline-drawer-content">
