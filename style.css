@@ -1,0 +1,25 @@
+.gf-settings .gf-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px;
+    margin: 6px 0;
+}
+
+.gf-settings select,
+.gf-settings input[type="text"] {
+    flex: 1 1 140px;
+    min-width: 0;
+}
+
+.gf-settings input[type="range"] {
+    width: 100%;
+    margin: 4px 0 8px;
+}
+
+.gf-settings .gf-hint {
+    margin-top: 8px;
+    font-size: 0.85em;
+    line-height: 1.35;
+    opacity: 0.7;
+}

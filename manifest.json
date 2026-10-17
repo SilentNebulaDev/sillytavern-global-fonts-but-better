@@ -1,0 +1,11 @@
+{
+    "display_name": "Global Font",
+    "loading_order": 10,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "user",
+    "version": "1.0.0",
+    "homePage": ""
+}
